@@ -37,7 +37,7 @@ Instructions on running the code:
   Run the files TrainOn_traits_TestOn_manifestos_cross_val.ipynb and TrainOn_traits_TestOn_manifestos_n_pair.ipynb to train the models on traits and test them on the final dataset using two different loss functions.
 
 * Running the code for multistage fine tuning on BERT:
+    
+  In folder Multistage_Fine_Tuning_Approach_BERT,
   
-In folder Multistage_Fine_Tuning_Approach_BERT,
-
-Run the file Transformer_model_multistage_finetuning.ipynb
+  Run the file Transformer_model_multistage_finetuning.ipynb
